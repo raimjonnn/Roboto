@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+div{
+  margin: 10px;
+}
+
+.BIR{
+  background-color: blueviolet;
+  color: chocolate;
+  border: 3px solid rgb(255, 225, 0);
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  text-shadow: 3px 4px 1px red;
+}
+
+.bir{
+  color:red;
+}
+
+
+.IKKI{
+  background-color: rgb(188, 0, 28);
+  color: chocolate;
+  border: 3px solid rgb(255, 225, 0);
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  text-shadow: 3px 4px 1px rgb(47, 0, 255);
+}
+
+.ikki{
+  color:black;
+}
+
+.UCH{
+  background-color: aquamarine;
+  color: aqua;
+  border: 3px solid rgb(255, 225, 0);
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  text-shadow: 3px 4px 1px rgb(60, 59, 64);
+}
+
+.uch{
+  color:blueviolet  ;
+}
+
+.TORT{
+  background-color: mediumblue;
+  color: steelblue;
+  border: 3px solid rgb(255, 225, 0);
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  text-shadow: 3px 4px 1px rgba(255, 0, 85, 0.589);
+}
+
+.tort{
+  color:tomato  ;
+}
+
+
+.OLTI{
+  background-color: beige;
+  color: steelblue;
+  border: 3px solid rgb(255, 225, 0);
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  text-shadow: 3px 4px 1px rgba(255, 0, 85, 0.589);
+}
+
+.olti{
+  color:aliceblue(156, 10, 127)  ;
+}
+
+
+
+
